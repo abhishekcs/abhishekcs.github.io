@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I currently work as a Software Engineer in the Fulfillment Technologies team at Amazon. I graduated with a Masters degree in Computer Science from the University of Texas at Austin in 2017. I did my undergrad at the Indian Institute of Technology in Delhi majoring in Computer Science.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[abhishek.4096@gmail.com](mailto:abhishek.4096@gmail.com)
